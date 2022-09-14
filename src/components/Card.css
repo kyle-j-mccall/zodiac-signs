@@ -1,0 +1,22 @@
+.zodiac-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  font-size: 20px;
+  color: aliceblue;
+  margin: 10px;
+  
+  
+}
+
+.zodiac-card img {
+  height: 60px;
+  width: 60px;
+  justify-self: center;
+}
+
+.dates {
+  font-size: 14px;
+}

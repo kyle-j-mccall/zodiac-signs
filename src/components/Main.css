@@ -1,0 +1,9 @@
+.main {
+    background-image: url(../../public/fog.jpg);
+    height: 90vh;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Kaushan Script', cursive;
+    justify-content: center;
+    
+}
